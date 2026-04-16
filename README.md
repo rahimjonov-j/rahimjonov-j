@@ -40,11 +40,11 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javohir-rahimjonov-b373373b0/">
+  <a href="www.linkedin.com/in/javohir-rahimjonov">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   
-<a href="[https://t.me/+HpDCY4QpjnE4ODc6](https://t.me/rahimjonovv_19)">
+<a href="https://t.me/rahimjonovv_19">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/>
 </a>
   
