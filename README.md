@@ -1,64 +1,75 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
-###
+<h3 align="center">I'm Javohir — Frontend Developer 💻</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Lover;Building+Real+Projects;Always+Learning+🚀" />
+</p>
 
+---
 
+## 🧑‍💻 About Me
 
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<h4 align="left">My name is Javohir and I'm a Front-end developer.</h4>
+- ✨ Creating bugs since **2025**
+- 📚 Currently diving deeper into **Front-End Development**
+- 🎯 Goal: Become a **skilled programmer** & build real-world projects
+- 🎲 Fun fact: I enjoy learning new dev languages
 
-###
+---
 
-<h2 align="left">About me</h2>
+## ⚡ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,npm,git&theme=dark" />
+</p>
 
-<p align="left">✨ Creating bugs since 2025<br>📚 Currently diving deeper into Front-End Development <br>🎯 Goals: Become a skilled programmer and build real-world projects<br>🎲 Fun fact: I enjoy learning new dev languages</p>
+---
 
-###
+## 📊 GitHub Stats
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahimjonov-j&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimjonov-j&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+## 🔗 Connect With Me
 
-###
-<h2 align="left">My social medias</h2>
-<div align="left">
-
-  <a href="https://www.linkedin.com/in/javohir-rahimjonov-b373373b0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/javohir-rahimjonov-b373373b0/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+<a href="https://t.me/+HpDCY4QpjnE4ODc6">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/>
+</a>
+  
+  <a href="https://www.instagram.com/the.rahimjonov/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 
-
-
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://t.me/+HpDCY4QpjnE4ODc6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="mailto:javohirrahimjonov546@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://www.instagram.com/the.rahimjonov/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="[javohirrahimjonov546@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Architecture-Deep%20Learning-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance%20Optimization-Learning-success?style=for-the-badge" />
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+  <i>"Code. Break. Fix. Repeat." 🔥</i>
+</p>
